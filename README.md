@@ -1,5 +1,4 @@
-# GeradorDeSistemaLinear
-Gerador de sistemas de equações lineares para testar a aplicação Gauss
+# Gerador de Sistema Linear
 
 ## Uso
 	node matriz.js <tamanho>
