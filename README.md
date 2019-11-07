@@ -16,4 +16,4 @@ Gera algo como:
 	-16 12 20 0 15 28 
 	18 1 0 -19 0 -37 
 
-Cuidado com a linha vazia no fim do arquivo, porque dependendo do seu leitor, pode dar erro.
+Cuidado com a linha vazia no fim do arquivo porque, dependendo do seu leitor, pode dar erro.
